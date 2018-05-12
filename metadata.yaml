@@ -1,0 +1,32 @@
+_repo: Catecismo-d-a-Doutrina-Labrega_21564
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamas Carvajal, Valentín
+    aliases:
+    - Carvaxal, Valentín Lamas
+    - Carvajal, Valentin Lamas
+    - Portela, Marcos da
+    - Carvajal, Valentín Lamas
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '24786'
+    url: http://www.gutenberg.org/2009/agents/24786
+    wikipedia: http://gl.wikipedia.org/wiki/Valent%C3%ADn_Lamas_Carvajal
+description: ''
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21564'
+language: gl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Peasants -- Spain -- Galicia (Region) -- Social conditions'
+title: Catecismo d'a Doutrina Labrega
+url: http://www.gutenberg.org/ebooks/21564
