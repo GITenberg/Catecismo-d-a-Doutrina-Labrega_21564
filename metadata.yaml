@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24786
     wikipedia: http://gl.wikipedia.org/wiki/Valent%C3%ADn_Lamas_Carvajal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21564#Catecismo-d-a-Doutrina-Labrega
 gutenberg_issued: '2007-05-22'
 gutenberg_type: Text
 identifiers:
